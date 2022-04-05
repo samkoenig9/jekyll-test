@@ -1,4 +1,4 @@
-# DataStruc2
+# Dylan - Data Structures 2
 
 # Menu 
 - [Code Snippets](CodeSnippets.md)
