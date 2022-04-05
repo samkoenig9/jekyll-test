@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code Snippets
+title: Replit
 ---
 
 # Individual Replit
