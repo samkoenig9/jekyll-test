@@ -14,11 +14,11 @@ author: Dylan Roman
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Code Snippets: "codesnippets.html"
+  Code Snippets: "CodeSnippets"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
-  Replit: "replit.html"
+  Replit: "Replit"
 
 # --- Logo --- #
 
